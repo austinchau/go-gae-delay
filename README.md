@@ -1,0 +1,1 @@
+Google AppEngine's delay/taskqueus has a size limitation on the payload, this library automatically split and batch the slice to make datastore operations delayable.
